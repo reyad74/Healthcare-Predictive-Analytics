@@ -8,3 +8,5 @@ uvicorn[standard]
 streamlit
 python-multipart
 pydantic
+plotly
+requests
